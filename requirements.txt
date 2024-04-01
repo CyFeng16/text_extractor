@@ -1,0 +1,5 @@
+fastapi
+loguru
+paddleocr>=2.0.1
+python-multipart
+uvicorn[standard]
